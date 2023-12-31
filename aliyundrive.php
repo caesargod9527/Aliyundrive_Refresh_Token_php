@@ -1,6 +1,6 @@
 <?php
-$client_id='b0c08c8a57014fd5b10ffcc4654ecbe7';//阿里云盘开发者应用ID
-$client_secret='fb726156c00241e091b9b7a33fae3460';////阿里云盘开发者应用密钥
+$client_id='b0c08c8a57014f0d5b10ffcc4654ecbe7';//阿里云盘开发者应用ID
+$client_secret='fb726156c000241e091b9b7a33fae3460';////阿里云盘开发者应用密钥
 
 //判断SSL是否开启
 function is_SSL(){
